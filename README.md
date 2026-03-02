@@ -21,19 +21,19 @@ This portfolio showcases hands-on labs, investigations, and defensive security p
 
 ### 🔎 Log Analysis Lab
 Security log investigation and threat detection practice.  
-➡️ Repository: (Add link once created)
+➡️ Repository:
 
 ### 🛡 SIEM Investigation Lab
 Event correlation and alert analysis.  
-➡️ Repository: (Add link once created)
+➡️ Repository: 
 
 ### 🖥 Linux Security Lab
 System auditing and log review using Linux.  
-➡️ Repository: (Add link once created)
+➡️ Repository: 
 
 ### 🗄 SQL Security Lab
 Querying datasets to identify suspicious activity.  
-➡️ Repository: (Add link once created)
+➡️ Repository:
 
 ---
 
@@ -54,5 +54,4 @@ Querying datasets to identify suspicious activity.
 
 ## 📫 Connect With Me
 
-- LinkedIn: (Add your link)
-- Email: (Professional email)
+- Email: 
