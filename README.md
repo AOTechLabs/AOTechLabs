@@ -1,16 +1,58 @@
-## Hi there 👋
+# Adewale Odusanya
+### SOC Analyst | Cybersecurity | Blue Team
 
-<!--
-**AOTechLabs/AOTechLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity professional focused on Security Operations (SOC), threat detection, and incident response.  
+This portfolio showcases hands-on labs, investigations, and defensive security projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡 Core Skills
+
+- SIEM Analysis
+- Log Analysis & Threat Detection
+- Incident Response Documentation
+- Linux Fundamentals
+- SQL for Security Analysis
+- Network Traffic Analysis (Wireshark, TCP/IP)
+
+---
+
+## 🧪 SOC Analyst Labs
+
+### 🔎 Log Analysis Lab
+Security log investigation and threat detection practice.  
+➡️ Repository: (Add link once created)
+
+### 🛡 SIEM Investigation Lab
+Event correlation and alert analysis.  
+➡️ Repository: (Add link once created)
+
+### 🖥 Linux Security Lab
+System auditing and log review using Linux.  
+➡️ Repository: (Add link once created)
+
+### 🗄 SQL Security Lab
+Querying datasets to identify suspicious activity.  
+➡️ Repository: (Add link once created)
+
+---
+
+## 📜 Certifications
+
+- Google Cybersecurity Professional Certificate
+- (Future: CompTIA Security+, Blue Team Level 1)
+
+---
+
+## 📊 Current Focus
+
+- Threat hunting techniques
+- Advanced SIEM investigations
+- Detection engineering fundamentals
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: (Add your link)
+- Email: (Professional email)
